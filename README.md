@@ -17,7 +17,7 @@ Project **Sentinel** is a proposal to build a **Team Intuition Engine**. Unlike 
 Every organization pays an "Invisible Tax" in two ways:
 
 1. **Redundant Failure:** Spending budget/time on a path a senior member already knows is a dead end, simply because they weren't in the room during the planning phase.
-2. **Asset Depreciation:** When an expert leaves, their 10–20 years of "intuition"—the ability to spot red flags before they happen—walks out the door with them.
+2. **Asset Depreciation:** When an expert leaves, their 10–20 years of "intuition",the ability to spot red flags before they happen,walks out the door with them.
 
 ---
 
@@ -37,7 +37,7 @@ We won't ask the team to "write manuals." Instead, the system uses n8n to "liste
 
 When a new project is proposed in Jira/Notion, the system doesn't wait for a search query. It automatically triggers a **Synthetic Council**:
 
-* AI agents—modeled on the specific historical decision-making patterns of our senior staff—review the proposal.
+* AI agents,modeled on the specific historical decision-making patterns of our senior staff,review the proposal.
 * The system generates a **"Pre-Mortem Report"**: *"Based on Marc’s 2022 project and Sarah’s 2019 vendor failure, this plan has a high risk of bottlenecking at Stage 2."*
 
 ### C. The "Shadow Mentor"
