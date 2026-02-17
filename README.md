@@ -1,4 +1,4 @@
-# Proposal: Project "Sentinel" – Turning 57 Years of Experience into a Digital Asset
+# Proposal: Project "Sentinel" – Turning X Years of Experience into a Digital Asset
 
 **Subject:** Strategy to eliminate "Key Person Risk" and institutionalize 50+ years of team intuition.
 
@@ -6,7 +6,7 @@
 
 ## 1. The Executive Summary
 
-Currently, our team holds a combined **57 years of specialized experience**. This is our most valuable asset, yet it is currently **analog and siloed**. When a senior team member is in a meeting, we benefit; when they are absent or leave the company, that "intuition" is lost.
+Currently, our team holds a combined **X years of specialized experience**. This is our most valuable asset, yet it is currently **analog and siloed**. When a senior team member is in a meeting, we benefit; when they are absent or leave the company, that "intuition" is lost.
 
 Project **Sentinel** is a proposal to build a **Team Intuition Engine**. Unlike a traditional database or "Wiki" (which are reactive and often ignored), Sentinel is a proactive system that uses AI agents to simulate the collective "gut feelings" and historical lessons of our entire team to vet new projects and prevent costly repeats of past mistakes.
 
@@ -62,13 +62,3 @@ Junior staff can "query the team's soul" in Slack. Instead of finding a document
 * **Risk Mitigation:** Prevents one $50k+ mistake by flagging a "known failure" early in the planning cycle.
 * **Onboarding Velocity:** Reduces the "time-to-autonomy" for new hires by giving them an AI "Senior Mentor" trained on our specific history.
 * **Intellectual Property Retention:** Converts human experience into a permanent digital company asset. Even if the team changes, the *wisdom* remains.
-
----
-
-## 6. Implementation Roadmap (Low-Risk Pilot)
-
-I propose a **30-day "Proof of Concept"** with zero disruption to current workflows:
-
-1. **Days 1-10:** Use n8n to ingest the last 2 years of project "Retrospectives" into a private, secure Vector Database.
-2. **Days 11-20:** Create a "Synthetic Persona" based on our most senior technical/operational logic.
-3. **Days 21-30:** Run three "Pre-Mortem" simulations on upcoming projects and compare the AI’s "concerns" with the actual concerns of our senior leads.
